@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1562854082 source:/home/rc1998/Desktop/specificjr/main.cpp
+	<iostream>
+	<iomanip>
+	<complex>
+	<cmath>
+	<vector>
+	<list>
+	<algorithm>
+	<bits/stdc++.h>
+
